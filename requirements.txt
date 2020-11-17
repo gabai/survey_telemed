@@ -9,3 +9,4 @@ datetime
 plotly
 plotly.express
 matplotlib
+jupyter_contrib_nbextensions
