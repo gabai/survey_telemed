@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Data_mngt.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True Data_mngt.ipynb
