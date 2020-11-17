@@ -9,4 +9,3 @@ datetime
 plotly
 plotly.express
 matplotlib
-re
